@@ -1,0 +1,108 @@
+81 642 212 97 100
+hien
+thuong
+nut
+exit
+vuong
+exit1.png
+exit2.png
+exit3.png
+1078 645 213 98 100
+hien
+thuong
+nut
+start
+vuong
+begin1.png
+begin2.png
+begin3.png
+1265 2 80 80 100
+hien
+thuong
+nut
+caidat
+tron
+gear1.png
+gear2.png
+gear3.png
+60 50 1243 695 100
+hien
+thuong
+
+
+vuong
+nenfake.png
+nenfake.png
+nenfake.png
+860 191 134 129 100
+
+
+nut
+fps-
+vuong
+ftru1.png
+ftru2.png
+ftru3.png
+1018 192 133 128 100
+
+
+nut
+fps+
+vuong
+fcong1.png
+fcong2.png
+fcong3.png
+860 426 131 126 100
+
+
+nut
+screen-
+vuong
+ftru1.png
+ftru2.png
+ftru3.png
+1016 426 133 127 100
+
+
+nut
+screen+
+vuong
+fcong1.png
+fcong2.png
+fcong3.png
+92 88 139 69 100
+hien
+thuong
+nut
+dong
+vuong
+huydi1.png
+huydi2.png
+huydi3.png
+1000 627 257 94 100
+
+
+nut
+ok
+vuong
+xacnhan1.png
+xacnhan2.png
+xacnhan3.png
+0 0 0 0 0
+
+
+
+
+
+reddot.png
+reddot.png
+reddot.png
+0 0 0 0 0
+
+
+
+
+
+reddot.png
+reddot.png
+reddot.png

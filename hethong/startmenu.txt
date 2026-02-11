@@ -1,0 +1,27 @@
+456 182 491 140 100
+k
+thuong
+nut
+luyentapmenu
+vuong
+luyentap1.png
+luyentap2.png
+luyentap3.png
+459 476 487 139 100
+k
+thuong
+nut
+memorymenu
+vuong
+memory1.png
+memory2.png
+memory3.png
+44 24 149 77 100
+k
+thuong
+nut
+mainmenu
+tron
+goback1.png
+goback2.png
+goback3.png

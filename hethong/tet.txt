@@ -1,0 +1,7 @@
+klap
+tet1.png
+40
+tet2.png
+40
+tet3.png
+290

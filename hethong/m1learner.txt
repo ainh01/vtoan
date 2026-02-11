@@ -1,0 +1,153 @@
+33 30 83 79 100
+hien
+thuong
+nut
+startmenu
+tron
+back1.png
+back1.png
+back1.png
+833 686 180 54 100
+
+
+nut
+hien
+thuong
+showpad1.png
+showpad2.png
+showpad3.png
+1020 382 276 367 100
+
+
+
+
+
+pad.png
+pad.png
+pad.png
+1211 665 74 69 100
+
+
+
+
+
+phay1.png
+phay2.png
+phay2.png
+1039 573 77 77 100
+
+
+nut
+7
+tron
+so71.png
+so72.png
+so72.png
+1126 573 75 76 100
+
+
+nut
+8
+tron
+so81.png
+so82.png
+so82.png
+1211 578 73 75 100
+
+
+nut
+9
+tron
+so91.png
+so92.png
+so92.png
+1039 487 77 76 100
+
+
+nut
+4
+tron
+so41.png
+so42.png
+so42.png
+1125 490 77 75 100
+
+
+nut
+5
+tron
+so51.png
+so52.png
+so52.png
+1212 491 74 75 100
+
+
+nut
+6
+tron
+so61.png
+so62.png
+so62.png
+1035 398 81 80 100
+
+
+nut
+1
+tron
+so11.png
+so12.png
+so12.png
+1124 400 78 79 100
+
+
+nut
+2
+tron
+so21.png
+so22.png
+so22.png
+1208 401 76 80 100
+
+
+nut
+3
+tron
+so31.png
+so32.png
+so32.png
+1037 661 159 72 100
+
+
+nut
+0
+tron
+so01.png
+so02.png
+so02.png
+386 264 552 245 100
+
+
+
+
+
+pad.png
+pad.png
+pad.png
+711 317 146 138 100
+
+
+
+
+
+tick3.png
+tick3.png
+tick3.png
+539 212 229 222 100
+
+ata
+
+
+
+dem321.txt
+reddot.png
+reddot.png

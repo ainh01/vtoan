@@ -1,0 +1,7 @@
+klap
+tick1.png
+40
+tick2.png
+40
+tick3.png
+290
